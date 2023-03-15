@@ -31,9 +31,13 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Employee Navigator/Page
 
 WebUI.click(findTestObject('Object Repository/Employee Navigator/Page_Employee Navigator Identity Provider/input_you forgot to put in a code_btn btn-s_86759a'))
 
+WebUI.waitForElementClickable(findTestObject('Object Repository/Employee Navigator/Page_Home/a_Profile'), 10)
+
 WebUI.click(findTestObject('Object Repository/Employee Navigator/Page_Home/a_Profile'))
 
-WebUI.click(findTestObject('Object Repository/Employee Navigator/Page_Profile Overview/span_Education'))
+WebUI.waitForElementClickable(findTestObject('Employee Navigator/Page_Profile Overview/span_Education'), 10)
+
+WebUI.click(findTestObject('Employee Navigator/Page_Profile Overview/span_Education'))
 
 WebUI.click(findTestObject('Object Repository/Employee Navigator/Page_Education/a_Edit'))
 
