@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Graduation Date_input-group-addon</name>
+   <tag></tag>
+   <elementGuidId>54881558-d4a2-4085-88a0-d21d1c570a0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.input-group-addon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modalEditContainer']/div/div/div/form/div/div[4]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ff00a558-743c-4f6d-bf95-e9a2e53e1948</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-group-addon</value>
+      <webElementGuid>913875fe-b235-40d5-839f-b46abe9b6a89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalEditContainer&quot;)/div[@class=&quot;modal fade in&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;modal-body form-container&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;input-group date col-sm-6&quot;]/div[@class=&quot;input-group-addon&quot;]</value>
+      <webElementGuid>0db510bc-8d21-44a6-9ea2-0e75c026128e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalEditContainer']/div/div/div/form/div/div[4]/div/div/div</value>
+      <webElementGuid>9c3b0088-d3ea-4a24-b295-2c6e802b07e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Graduation Date'])[3]/following::div[3]</value>
+      <webElementGuid>bb0c5d58-8eb2-4ea3-b792-a24980d5405e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::div[4]</value>
+      <webElementGuid>f3ab7666-9d46-4670-a71e-6633d2dc488c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::div[1]</value>
+      <webElementGuid>90d7560c-c21a-454c-8bf2-ebe49bff8be9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='here'])[1]/preceding::div[3]</value>
+      <webElementGuid>bca28fea-3650-498e-9ed8-5673ec2c040f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[4]/div/div/div</value>
+      <webElementGuid>5454b24a-3e7c-4f29-b062-ffa188a7ca66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

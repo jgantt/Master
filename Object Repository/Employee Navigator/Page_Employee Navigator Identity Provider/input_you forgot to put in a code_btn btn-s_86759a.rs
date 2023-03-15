@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_you forgot to put in a code_btn btn-s_86759a</name>
+   <tag></tag>
+   <elementGuidId>c9d909e7-f213-42fc-acec-aff5ee4a274e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-success.login-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Login']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>fbda00b9-6347-44c2-894b-1dfd963af400</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>3ad85e5e-55ad-43ef-80fc-8ebcfba3449e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>ff4cf34b-fb6f-4ee0-bb4d-3739244d2799</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success login-button</value>
+      <webElementGuid>a7fcb25a-00d2-4f7c-868e-936257a6b91a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container body-content&quot;]/div[1]/div[2]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-offset-4 col-md-4&quot;]/form[1]/div[3]/div[@class=&quot;form-group&quot;]/div[@class=&quot;controls&quot;]/input[@class=&quot;btn btn-success login-button&quot;]</value>
+      <webElementGuid>06bf3869-7382-4fc8-82c5-93d593fe22d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Login']</value>
+      <webElementGuid>a830d6c9-200e-4971-9214-eb78d3557a83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/input</value>
+      <webElementGuid>f01c085f-772a-4168-9a6b-dc140d3523e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>66642bf0-f382-4a29-9980-21a6ffdb3ba5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

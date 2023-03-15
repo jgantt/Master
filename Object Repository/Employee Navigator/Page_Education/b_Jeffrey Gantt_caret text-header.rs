@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Jeffrey Gantt_caret text-header</name>
+   <tag></tag>
+   <elementGuidId>4b3fa220-8668-42d8-80ea-af220997fe95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b.caret.text-header</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='outer_content']/div/div[3]/div/div/ul/li/a/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>dcdf985a-5427-4ca8-8e8a-e92ac19e1693</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>caret text-header</value>
+      <webElementGuid>78c84982-422f-46b1-b8ac-23028803a2c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;outer_content&quot;)/div[@class=&quot;do-not-print&quot;]/div[@class=&quot;content-header&quot;]/div[@class=&quot;container site-header&quot;]/div[@class=&quot;pull-right&quot;]/ul[@class=&quot;nav nav-pills&quot;]/li[@class=&quot;dropdown&quot;]/a[@class=&quot;dropdown-toggle&quot;]/b[@class=&quot;caret text-header&quot;]</value>
+      <webElementGuid>640f6c24-625a-450b-964b-b9eca049c1e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='outer_content']/div/div[3]/div/div/ul/li/a/b</value>
+      <webElementGuid>5c7bd875-d894-43de-b59b-f03f7c98c9f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>47b39cc3-bb37-419e-bf16-a542ccc788cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
